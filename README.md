@@ -36,8 +36,7 @@ Aliases are case-insensitive and whitespace around headers is ignored.
 
 | Source file name | Output file name | Title        | Caption          | Description        | Keywords        |
 | ---------------- | ---------------- | ------------ | ---------------- | ------------------ | --------------- |
-| image00001.jpg   | apron-001.jpg    | Pregač       | Pregač sa džepom | Pamučni kuhinjski… | kuhinja; pregač |
-| image00002.jpg   | apron-002        | Radni Pregač | Bez rukava       | Polyester, plavi   | rad; uniforma   |
+
 
 You may use aliases as headers, e.g. `source`, `ouput`, `title`, `caption`, `description`, `keywords`.
 
