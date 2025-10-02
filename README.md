@@ -1,6 +1,6 @@
 ## Image Tags Updater
 
-This app updates JPEG metadata from the first sheet of an XLSX file and supports flexible column headers.
+This app updates JPEG metadata.
 
 ### Required and Optional Columns
 
